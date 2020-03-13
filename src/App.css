@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+div {
+  height: auto;
+  width: 500px;
+  margin: 50px auto;
+}
+img {
+  width: 150px;
+  height: auto;
+}
